@@ -20,15 +20,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aninhanascimento/aninhanascimento/output/github-contribution-grid-snake.svg">
 </picture>
 
-💻 Estudante de Desenvolvimento e Inteligência Artificial.
-
-📚 Atualmente aprendendo:
-- Python
-- Git e GitHub
-- HTML
-- CSS
-- SQL
-
 🚀 Objetivo:
 Construir soluções utilizando Inteligência Artificial para facilitar a vida das pessoas.
 
