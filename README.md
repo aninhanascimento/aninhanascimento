@@ -1,5 +1,23 @@
 # 👋 Olá! Eu sou Ana Paula Nascimento
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Ana+Paula!;Estudante+de+Python;Apaixonada+por+Intelig%C3%AAncia+Artificial;Sempre+aprendendo+algo+novo!" />
+</p>
+
+💻 Estudante de Desenvolvimento e Inteligência Artificial.
+
+📚 Atualmente aprendendo:
+- Python
+- Git e GitHub
+- HTML
+- CSS
+- SQL
+
+## 🚀 Tecnologias
+...
+
+
+
 💻 Estudante de Desenvolvimento e Inteligência Artificial.
 
 📚 Atualmente aprendendo:
