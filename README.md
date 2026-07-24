@@ -23,6 +23,8 @@ Construir soluções utilizando Inteligência Artificial para facilitar a vida d
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Inteligência Artificial](https://img.shields.io/badge/Inteligência_Artificial-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Streak](https://streak-stats.demolab.com?user=aninhanascimento&theme=tokyonight)
+
 
 ## 📊 Estatísticas
 
@@ -31,5 +33,3 @@ Construir soluções utilizando Inteligência Artificial para facilitar a vida d
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhanascimento&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aninhanascimento&theme=tokyonight)
-
-📍 Blumenau - SC
