@@ -1,10 +1,23 @@
+# 👋 Olá! Eu sou Ana Paula Nascimento
 
-👋 Olá! Sou Ana Paula
+💻 Estudante de Desenvolvimento e Inteligência Artificial.
 
-🎯 Freelancer com experiência em atendimento ao público e eventos
+📚 Atualmente aprendendo:
+- Python
+- Git e GitHub
+- HTML
+- CSS
+- SQL
 
-💻 Atualmente aprendendo tecnologia e desenvolvimento
+🚀 Objetivo:
+Construir soluções utilizando Inteligência Artificial para facilitar a vida das pessoas.
 
-🚀 Em busca de crescer na área digital e criar novos projetos
+## 🛠 Tecnologias
+- 🐍 Python
+- 🌐 HTML
+- 🎨 CSS
+- 🗄️ MySQL
+- ⚡ Git
+- 🤖 Inteligência Artificial
 
-🌇 Blumenau/SC
+📍 Blumenau - SC
