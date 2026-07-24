@@ -24,13 +24,4 @@ Construir soluções utilizando Inteligência Artificial para facilitar a vida d
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Inteligência Artificial](https://img.shields.io/badge/Inteligência_Artificial-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aninhanascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninhanascimento&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aninhanascimento&theme=tokyonight"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=aninhanascimento&theme=tokyonight&hide_border=true)
