@@ -2,7 +2,7 @@
 
 🎯 *Estudante de Inteligência Artificial pelo Entra21*
 
-💡 Apaixonada por *Product Management, **Inteligência Artificial* e *Inovação*.
+💡 Apaixonada por *Gestão de Produtos, **Inteligência Artificial* e *Inovação*.
 
 🚀 Meu objetivo é transformar ideias em produtos digitais que gerem valor para pessoas e empresas.
 
@@ -31,7 +31,7 @@ Hoje estudo Inteligência Artificial  e estou me preparando para atuar na área 
 Busco construir uma carreira em *Product Management*, unindo tecnologia, Inteligência Artificial e experiência do usuário para desenvolver soluções inovadoras.
 
 
-## Minhas Contribuições
+## Atividades no Github
 ...
 
 <picture>
