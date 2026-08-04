@@ -1,17 +1,37 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Ana+Paula!;Estudante+de+Python;Apaixonada+por+Intelig%C3%AAncia+Artificial;Sempre+aprendendo+algo+novo!" />
-</p>
+# 👋 Olá! Eu sou Ana Paula Nascimento
 
-💻 Estudante de Desenvolvimento e Inteligência Artificial.
+🎯 *Estudante de Inteligência Artificial pelo Entra21*
 
-📚 Atualmente aprendendo:
-- Python
-- Git e GitHub
-- HTML
-- CSS
-- SQL
+💡 Apaixonada por *Product Management, **Inteligência Artificial* e *Inovação*.
 
-## 🚀 Tecnologias
+🚀 Meu objetivo é transformar ideias em produtos digitais que gerem valor para pessoas e empresas.
+
+## 🌟 Sobre mim
+
+Após anos atuando com atendimento ao público, turismo e eventos, decidi direcionar minha carreira para Tecnologia.
+
+Hoje estudo Inteligência Artificial  e estou me preparando para atuar na área de Produtos Digitais, combinando tecnologia, inovação e foco no usuário.
+
+---
+
+## 📚 Atualmente estudando
+
+- 🧩 Product Management
+- ⚙️ Scrum e Metodologias Ágeis
+- 🐍 Python
+- 🤖 Machine Learning
+- 💬 Processamento de Linguagem Natural (NLP)
+- 🗄️ Banco de Dados (SQL e NoSQL)
+- 🌿 Git e GitHub
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco construir uma carreira em *Product Management*, unindo tecnologia, Inteligência Artificial e experiência do usuário para desenvolver soluções inovadoras.
+
+
+## Minhas Contribuições
 ...
 
 <picture>
@@ -20,8 +40,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aninhanascimento/aninhanascimento/output/github-contribution-grid-snake.svg">
 </picture>
 
-🚀 Objetivo:
-Construir soluções utilizando Inteligência Artificial para facilitar a vida das pessoas.
 
 ## 🚀 Tecnologias
 
