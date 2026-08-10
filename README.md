@@ -16,7 +16,7 @@ Hoje estudo Inteligência Artificial  e estou me preparando para atuar na área 
 
 ## 📚 Atualmente estudando
 
-- 🧩 Product Management
+- 🧩 Product Owner
 - ⚙️ Scrum e Metodologias Ágeis
 - 🐍 Python
 - 🤖 Machine Learning
